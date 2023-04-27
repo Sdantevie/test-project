@@ -1,5 +1,5 @@
 <template>
-   <div class="container">
+   <div class="content">
       <span class="label">Content Box</span>
    </div>
 </template>
@@ -9,7 +9,7 @@
 </script>
 
 <style lang='postcss' scoped>
-   .container  {
+   .content  {
       @apply bg-black h-24 w-36 relative;
    }
  .label {
